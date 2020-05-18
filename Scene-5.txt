@@ -10,3 +10,4 @@ Mark me.
 
 Hamlet:
 I will.
+Ghost: 
